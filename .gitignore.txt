@@ -1,0 +1,29 @@
+# Build Results
+bin/
+obj/
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+# DotNet
+*.dll
+*.exe
+*.log
+*.cache
+*.pdb
+*.mdb
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+.nuget/
+# Configurações locais
+appsettings.*.json
+# Outros
+*.log
+*.DS_Store
+*.swp
+Thumbs.db

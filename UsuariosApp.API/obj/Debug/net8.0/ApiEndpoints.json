@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "UsuariosApp.API.Controllers.UsuariosController",
+    "Method": "Autenticar",
+    "RelativePath": "api/usuarios/autenticar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UsuariosApp.Domain.Dtos.AutenticarUsuarioRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UsuariosApp.Domain.Dtos.AutenticarUsuarioResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UsuariosApp.API.Controllers.UsuariosController",
+    "Method": "Criar",
+    "RelativePath": "api/usuarios/criar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UsuariosApp.Domain.Dtos.CriarUsuarioResquetDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UsuariosApp.Domain.Dtos.CriarUsuarioResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "UsuariosApp.API.Controllers.UsuariosController",
+    "Method": "Get",
+    "RelativePath": "api/usuarios/minha-conta",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "UsuariosApp.Domain.Dtos.MinhaContaResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

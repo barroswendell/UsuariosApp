@@ -1,0 +1,12 @@
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.deps.json
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.dll
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\bin\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfoInputs.cache
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.AssemblyInfo.cs
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.dll
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\refint\UsuariosApp.Domain.dll
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.pdb
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\ref\UsuariosApp.Domain.dll
+C:\Users\wende\OneDrive\Área de Trabalho\ProjetosWendell\UsuariosApp\UsuariosApp.Domain\obj\Debug\net8.0\UsuariosApp.Domain.csproj.AssemblyReference.cache

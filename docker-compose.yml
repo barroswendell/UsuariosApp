@@ -1,0 +1,19 @@
+services:
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver-container-usuariosapp
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Coti@2025
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+    restart: always
+
+volumes:
+  sqlserver_data:
+    driver: local
+
+
